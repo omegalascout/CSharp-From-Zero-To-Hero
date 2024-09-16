@@ -84,6 +84,7 @@ namespace BootCamp.Chapter
                         double BMI = (weightConversion / (heightConversion * heightConversion) * 703);
                         Console.WriteLine("Their BMI is " + BMI);
                         itterations++;
+
                     }
                 }
             }
